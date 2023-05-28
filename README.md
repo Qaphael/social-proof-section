@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Qaphael/social-proof-section](https://github.com/Qaphael/social-proof-section)
+- Live Site URL: [https://qaphael.github.io/social-proof-section/](https://qaphael.github.io/social-proof-section/)
 
 ## My process
 
